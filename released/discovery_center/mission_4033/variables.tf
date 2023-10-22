@@ -70,7 +70,7 @@ variable "entitlements" {
     {
       service_name = "sap-build-apps"
       plan_name    = "standard"
-      type         = "service"
+      type         = "app"
     },
     {
       service_name = "process-automation"
